@@ -1,2 +1,2 @@
 # tictactoe
-game
+this is a game website.
